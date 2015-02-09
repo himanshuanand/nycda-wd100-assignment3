@@ -1,0 +1,21 @@
+.socialbar{
+	width:20%;
+	height:100%;
+	position: fixed;
+	background-color: blue;
+	color: aqua;
+	border: 1px solid red;
+}
+a{
+	color:aqua;
+}
+a:visited{
+	text-decoration: none;
+}
+.socialcontent{
+	width:80%;
+	float:right;
+	position: relative;
+	left: 1%;
+	top: 10%;
+}
